@@ -1,1 +1,1 @@
-# expert-octo-spoon
+Information about the project
