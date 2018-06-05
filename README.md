@@ -1,1 +1,1 @@
-Information about the project
+Information about the project along with feature
